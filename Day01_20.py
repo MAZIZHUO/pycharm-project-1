@@ -71,3 +71,5 @@ print(int(g))           # bool类型的True转成int，输出1
 print(chr(a))           # int类型的100转成str，输出'd'
 print(ord('d'))         # str类型的'd'转成int，输出100
 
+
+print(1+1+1)
