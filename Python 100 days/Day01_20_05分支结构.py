@@ -22,3 +22,4 @@ print(f'A = {a}') # 这是普通的 f-string
 print(f'A = {a :.2f}')  #:是格式说明符（format specifier） 的分隔符，{变量:格式} → 用冒号 : 后面的格式规则来控制输出方式
 print(f'A = {a = }')  # 这是 Python 3.8+ 的调试用格式，自动帮你输出变量名和变量值
 print(f'A = {a = :.2f}')
+
