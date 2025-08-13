@@ -31,4 +31,3 @@ while money > 0:
                 money += debt
                 break
 print('你破产了, 游戏结束!')
-
