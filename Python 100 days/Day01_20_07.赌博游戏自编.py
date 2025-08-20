@@ -28,3 +28,5 @@ while m > 0:
                 break
 print('游戏终止，玩家总资产已耗尽')
 
+
+
